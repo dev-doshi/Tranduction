@@ -89,4 +89,4 @@ async def on_message(message):
         # If the language is English, do nothing
         pass
 
-client.run('MTA4NjMyNDMxMTcyNTQ0OTI4OA.GI0thp.fZo0hmK81lwVxr_Om8h52lwr3G3vwZCSKEXmB4')
+client.run('ENTER YOUR TOKEN HERE')
